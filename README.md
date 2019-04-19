@@ -1,7 +1,4 @@
 # SDD19
-
-<p>&nbsp;</p>
-<h1>SDD19</h1>
 <h3>Class overview site.</h3>
 <p>Repositories 00-09 are for IPT website building.</p>
 <p>Repositiories 10 onwards are for SDD and contain sample code<a href="https://youtu.be/vlh_zG78BGU?list=PLTIYlaro_uhuoZzyd4bhPw8DjQLJxcG_Y&t=58"></a>:</p>
